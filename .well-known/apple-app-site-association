@@ -1,0 +1,19 @@
+{
+	"webcredentials": {
+		"apps": [ 
+            "68BWD3N6J2.com.TraceLLC.Trace"
+        ]
+	},
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "68BWD3N6J2.com.TraceLLC.Trace",
+                "paths": [
+                    "/",
+                    "/lotOverview/*"
+                ]
+            }
+        ]
+    }
+}
